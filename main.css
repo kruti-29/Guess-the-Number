@@ -1,0 +1,13 @@
+.main {
+  -fx-background-color: #90ee90;
+}
+.btn {
+  -fx-background-color:#001200c8;
+  -fx-font-weight: bold;
+  -fx-cursor: hand;
+  -fx-border : 1px solid white;
+}
+.btn:hover{
+  -fx-background-color:#002400c8;
+  -fx-font-size : 14;
+}
